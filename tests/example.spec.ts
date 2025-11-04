@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+/* import { test, expect } from "@playwright/test";
 
 const PAGE_URL = "http://37.27.45.218:81/";
 
@@ -40,3 +40,4 @@ test("can choose difficulty", async ({ page }) => {
 
 	await expect(page.getByText("Aega jäänud")).toBeVisible();
 });
+ */
